@@ -2,7 +2,7 @@
 
 ## Overview
 
-# K-means Unsupervise Model 
+# K-means Unsupervised Classification Model 
 
 ## Performance Plots and Statistics
 
