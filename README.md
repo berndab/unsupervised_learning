@@ -2,6 +2,10 @@
 
 ## Overview
 
+This project is applies unsupervised machine learning to categorize various crypto currencies using data from cryptocurrency market data provider website [cryptocompare](https://www.cryptocompare.com/) to evaluate and identify if possible those crypto currencies with the best investment potential. 
+
+Two unsupervised learning models were created using Pandas get_dummies() text field encoding and using Scikit-Learn's LabelEncoding class. 
+
 # K-means Unsupervised Classification Model 
 
 ## Performance Plots and Statistics
