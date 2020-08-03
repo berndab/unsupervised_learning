@@ -6,8 +6,6 @@
 
 ## Performance Plots and Statistics
 
-### Dummy Text Encoder
-
 ### Elbow Plots
 
 #### Dummy Text Encoder
