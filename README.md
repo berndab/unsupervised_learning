@@ -2,7 +2,11 @@
 
 ## Overview
 
-## Data
+# K-means Unsupervise Model 
+
+## Performance Plots and Statistics
+
+### Dummy Text Encoder
 
 ### Elbow Plots
 
