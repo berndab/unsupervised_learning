@@ -19,31 +19,31 @@ The performance of both model encoding combinations are compared and the classif
 
 #### Dummy Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_elbow_plot.png" title="Elbow Using Dummy Text Encoder" width="75%" height="75%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_elbow_plot.png" title="Elbow Using Dummy Text Encoder" width="75%" height="75%">
 
 #### Label Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_elbow_plot.label_encoder.png" title="Elbow Plot Using Dummy Text Encoder" width="75%" height="75%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_elbow_plot.label_encoder.png" title="Elbow Plot Using Label Text Encoder" width="75%" height="75%">
 
 ### 3D Scatter Plots
 
 #### Dummy Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_3d_class_plot.png" title="3D Scatter Plot Using Dummy Text Encoder" width="90%" height="90%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_3d_class_plot.png" title="3D Scatter Plot Using Dummy Text Encoder" width="90%" height="90%">
 
 #### Label Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_3d_class_plot.label_encoder.png" title="3D Scatter Plot Using Label Text Encoder" width="55%" height="55%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_3d_class_plot.label_encoder.png" title="3D Scatter Plot Using Label Text Encoder" width="55%" height="55%">
 
 ### 2D Scatter Plots
 
 #### Dummy Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_2d_class_plot.png" title="2D Scatter Plot Using Dummy Text Encoder" width="75%" height="75%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_2d_class_plot.png" title="2D Scatter Plot Using Dummy Text Encoder" width="75%" height="75%">
 
 #### Label Text Encoder
 
-<img src="https://github.com/berndab/unsupervised_learning/blob/master/unsupervised_2d_class_plot.label_encoder.png" title="2D Scatter Plot Using Label Text Encoder" width="75%" height="75%">
+<img src="https://github.com/berndab/unsupervised_learning/blob/master/plots/unsupervised_2d_class_plot.label_encoder.png" title="2D Scatter Plot Using Label Text Encoder" width="75%" height="75%">
 
 ### Principal component analysis (PCA) Explained Variance Ratio
 
