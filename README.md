@@ -16,9 +16,9 @@ The performance of both model encoding combinations are compared and the classif
 
 |Module                             |Class                              |Module                             |Class                              |
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|**Environment**                    |                                   |**Feature Encoding Algorithms**    |LabelEncoder                       |
-|Anaconda                           |                                   |sklearn.preprocessing              |PCA                                |
-|**Application**                    |                                   |sklearn.decomposition              |                                   |
+|**Environment**                    |                                   |**Feature Encoding Algorithms**    |                                   |
+|Anaconda                           |                                   |sklearn.preprocessing              |LabelEncoder                       |
+|**Application**                    |                                   |sklearn.decomposition              |PCA                                |
 |Jupyter Notebook                   |                                   |**Scaling Algorithms**             |                                   |
 |**Data Analysis**                  |                                   |sklearn.preprocessing              |StandardScaler                     |
 |pandas                             |                                   |                                   |MinMaxScaler                       |
