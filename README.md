@@ -10,6 +10,21 @@ Two instances of the k-means unsupervised learning model are created and used to
 
 The performance of both model encoding combinations are compared and the classification output of the best performing model encoding combination is used in the evaluation of the investment potential of generated crypto currency classes.
 
+## Technical Summary
+
+### Python Modules and Classes Used
+
+|Module                             |Class                              |Module                             |Class                              |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|**Environment**                    |                                   |**Feature Encoding Algorithms**    |LabelEncoder                       |
+|Anaconda                           |                                   |sklearn.preprocessing              |PCA                                |
+|**Application**                    |                                   |sklearn.decomposition              |                                   |
+|Jupyter Notebook                   |                                   |**Scaling Algorithms**             |                                   |
+|**Data Analysis**                  |                                   |sklearn.preprocessing              |StandardScaler                     |
+|pandas                             |                                   |                                   |MinMaxScaler                       |
+|**Model**                          |                                   |**Plotting***                      |                                   |
+|sklearn.cluster                    |KMeans                             |plotly.express                     |                                   |
+|                                   |                                   |hvplot.pandas                      |                                   |
 
 # K-means Unsupervised Classification Model 
 
