@@ -21,7 +21,7 @@ The performance of both model encoding combinations are compared and the classif
 |**Application**                    |                                   |sklearn.decomposition              |PCA                                |
 |Jupyter Notebook                   |                                   |**Feature Scaling Algorithms**     |                                   |
 |**Data Analysis**                  |                                   |sklearn.preprocessing              |StandardScaler                     |
-|pandas                             |                                   |                                   |MinMaxScaler                       |
+|pandas                             |                                   |sklearn.preprocessing              |MinMaxScaler                       |
 |**Model**                          |                                   |**Plotting APIs**                  |                                   |
 |sklearn.cluster                    |KMeans                             |plotly.express                     |                                   |
 |                                   |                                   |hvplot.pandas                      |                                   |
