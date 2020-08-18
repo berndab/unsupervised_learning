@@ -12,17 +12,17 @@ The performance of both model encoding combinations are compared and the classif
 
 ## Technical Summary
 
-### Python Modules and Classes Used
+### Python Modules and Classes
 
 |Module                             |Class                              |Module                             |Class                              |
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |**Environment**                    |                                   |**Feature Encoding Algorithms**    |                                   |
 |Anaconda                           |                                   |sklearn.preprocessing              |LabelEncoder                       |
 |**Application**                    |                                   |sklearn.decomposition              |PCA                                |
-|Jupyter Notebook                   |                                   |**Scaling Algorithms**             |                                   |
+|Jupyter Notebook                   |                                   |**Feature Scaling Algorithms**     |                                   |
 |**Data Analysis**                  |                                   |sklearn.preprocessing              |StandardScaler                     |
 |pandas                             |                                   |                                   |MinMaxScaler                       |
-|**Model**                          |                                   |**Plotting**                       |                                   |
+|**Model**                          |                                   |**Plotting APIs**                  |                                   |
 |sklearn.cluster                    |KMeans                             |plotly.express                     |                                   |
 |                                   |                                   |hvplot.pandas                      |                                   |
 
